@@ -118,14 +118,13 @@ nav{
 }
 }
 
-/* Media query: laptops and larger (992px and up) */
+/* Large divices: laptops and larger (992px and up) */
 @media screen and (min-width: 992px){
     /* Header */
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
 }
-
 
 #logo{
 font-size: 280%;
