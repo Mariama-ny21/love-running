@@ -314,7 +314,7 @@ main{
 }
 
 /* Gallery */
-#protos {
+#photos {
     column-count: 3;
 }
 
@@ -348,7 +348,7 @@ main{
     }
 
     /* Gallery */
-    #protos {
+    #photos {
         column-count: 4;
 }
 
